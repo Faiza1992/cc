@@ -1,0 +1,7 @@
+Listening on 127.0.0.1:34115
+[2024-07-15 19:05:27] info Disposed of connection to running server.
+looking for token f2626f09-a2f9-483f-a0de-b5fd35eae43b, got Some("f2626f09-a2f9-483f-a0de-b5fd35eae43b")
+[2024-07-15 19:05:27] info Checking /home/cc/.vscode-server/cli/servers/Stable-ea1445cc7016315d0f5728f8e8b12a45dc0a7286/log.txt and /home/cc/.vscode-server/cli/servers/Stable-ea1445cc7016315d0f5728f8e8b12a45dc0a7286/pid.txt for a running server...
+[2024-07-15 19:05:27] info Starting server...
+[2024-07-15 19:05:27] info Server started
+[2024-07-17 08:00:22] info Disposed of connection to running server.

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 18 17:24:52 UTC 2024
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:pom\:2.13.0 from/to MavenCentral (http\://repo1.maven.org/maven2)\: Transfer failed for http\://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.0/jackson-databind-2.13.0.pom 501 HTTPS Required
+@default-MavenCentral-http\://repo1.maven.org/maven2/.lastUpdated=1705598692690
+https\://repo.maven.apache.org/maven2/.lastUpdated=1705598692965

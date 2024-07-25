@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 18 16:54:15 UTC 2024
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.json\:json\:jar\:20210307 from/to MavenCentral (http\://repo1.maven.org/maven2)\: Transfer failed for http\://repo1.maven.org/maven2/org/json/json/20210307/json-20210307.jar 501 HTTPS Required
+@default-MavenCentral-http\://repo1.maven.org/maven2/.lastUpdated=1705596855177
+https\://repo.maven.apache.org/maven2/.lastUpdated=1705596855232

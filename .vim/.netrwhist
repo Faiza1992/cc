@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/cc/storm/riot-bench/modules/storm/src/main/java/in/dream_lab/bm/stream_iot/storm/genevents/utils'
+let g:netrw_dirhist_2='/home/cc/zookeeper'
+let g:netrw_dirhist_1='/home/cc/storm/logs/workers-artifacts/IoTPredictionTopologyTAXI-2-1697856339/6701'

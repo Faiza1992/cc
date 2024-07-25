@@ -1,0 +1,19 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:46099 (IPv4)
+Extension host agent listening on 46099
+
+[15:56:14] 
+
+
+
+
+[15:56:14] Extension host agent started.
+[15:56:15] [127.0.0.1][1a381a4e][ManagementConnection] Unknown reconnection token (never seen).
+Last EH closed, shutting down
+[16:01:14] Last EH closed, shutting down

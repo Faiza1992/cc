@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 21 02:36:59 UTC 2023
+http\://0.0.0.0/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-slf4j-impl\:pom\:2.11.2 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [MavenCentral (http\://repo1.maven.org/maven2, default, releases), Codehaus Snapshots (http\://snapshots.repository.codehaus.org/, default, snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1697855819937
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1697855819917

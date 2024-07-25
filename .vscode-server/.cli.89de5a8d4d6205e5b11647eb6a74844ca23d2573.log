@@ -1,0 +1,8 @@
+Listening on 127.0.0.1:40603
+[2024-06-10 20:55:33] info Disposed of connection to running server.
+looking for token ad946732-ad30-4c34-9b54-6cac242c4b98, got Some("ad946732-ad30-4c34-9b54-6cac242c4b98")
+[2024-06-10 20:55:33] info Checking /home/cc/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/log.txt and /home/cc/.vscode-server/cli/servers/Stable-89de5a8d4d6205e5b11647eb6a74844ca23d2573/pid.txt for a running server...
+[2024-06-10 20:55:33] info Downloading Visual Studio Code server -> /tmp/.tmpS8VhJA/vscode-server-linux-x64.tar.gz
+[2024-06-10 20:55:36] info Starting server...
+[2024-06-10 20:55:36] info Server started
+[2024-06-11 22:30:03] info Disposed of connection to running server.
